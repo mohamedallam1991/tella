@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-title = "Tella"
-author = "username"
+baseURL = "https://mohamedallam.pages.dev"
+title = "Moh's business"
+author = "Mohamed Allam"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -29,7 +29,7 @@ enableRobotsTXT = true
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "Mohamed Allam's portfolio"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
