@@ -42,9 +42,9 @@ enableRobotsTXT = true
     meta_og_url = "https://tella.pages.dev"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    # meta_twitter_card = "summary_large_image"
+    # meta_twitter_site = "@username"
+    # meta_twitter_creator = "@username"
 
 [menu]
 
