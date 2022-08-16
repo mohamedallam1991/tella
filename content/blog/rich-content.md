@@ -18,7 +18,8 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 {{< youtube ZJthWmvUzzc >}}
 
 <br>
-
+<!-- //git submodule update --remote --merge && npm run build && npm install -g postcss-cli && hugo
+// git submodule update --remote --merge && npm install -g postcss-cli && npm install autoprefixer && npm audit fix && npm run build && hugo -->
 
 ## Twitter Simple Shortcode
 
